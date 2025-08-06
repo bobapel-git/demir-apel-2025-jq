@@ -1,6 +1,6 @@
 **Reproducibility Package for Demir and Apel (2025)**
 
-This repository contains the data and programs to reproduce tables and figures in "Recorded Justice or Procedural Justice? A Randomized Controlled Experiment of the Influence of Body Worn Cameras and Officer Behavior on Citizen Attitudes," which appears in *Justice Quarterly*. This is a study of XXX.
+This repository contains the data and programs to reproduce tables and figures in "Recorded Justice or Procedural Justice? A Randomized Controlled Experiment of the Influence of Body Worn Cameras and Officer Behavior on Citizen Attitudes," which appears in *Justice Quarterly*.
 
 The data folder includes the raw Excel data (vignette-data\_20220605.xlsx) as well as a created Stata dataset (vignette-data-analyze.dta) that preps the raw data for analysis. The programs folder includes two Stata do-files that prep the raw Excel data (do-1-prep.do) and performs all analyses reported in the article (do-2-analyze.do).
 
