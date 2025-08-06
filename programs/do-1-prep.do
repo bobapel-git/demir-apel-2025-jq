@@ -70,7 +70,7 @@ label var cpltnt "COOPERATE: Prin Comp Fact"
 order cprprt cpdang cpsusp cpinfo cpasst cpltnt, last
 
 rename voluntarycompliancewithpolice sctold
-rename AB scaccp
+rename Y scaccp
 rename complywithpolice1stronglydi sccomp
 factor sctold scaccp sccomp, pcf fac(1)
 predict scltnt
