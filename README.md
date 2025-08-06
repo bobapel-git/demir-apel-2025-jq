@@ -6,7 +6,7 @@ The data folder includes the raw Excel data (vignette-data\_20220605.xlsx) as we
 
 Article citation:
 
-Demir, Mustafa and Robert Apel. (2025). Recorded justice or procedural justice? A randomized controlled experiment of the influence of body worn cameras and officer behavior on citizen attitudes. *Justice Quarterly* 42(5): 799-833. https://www-tandfonline-com.proxy.libraries.rutgers.edu/doi/full/10.1080/07418825.2024.2425676
+Demir, Mustafa and Robert Apel. (2025). Recorded justice or procedural justice? A randomized controlled experiment of the influence of body worn cameras and officer behavior on citizen attitudes. *Justice Quarterly* 42(5): 799-833. https://www.tandfonline.com/doi/10.1080/07418825.2024.2425676
 
 This article is not open access, so a pre-publication version is provided in this repository.
 
