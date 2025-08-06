@@ -2,7 +2,7 @@
 
 This repository contains the data and programs to reproduce tables and figures in "Recorded Justice or Procedural Justice? A Randomized Controlled Experiment of the Influence of Body Worn Cameras and Officer Behavior on Citizen Attitudes," which appears in *Justice Quarterly*. This is a study of XXX.
 
-The data and program folders include the raw data acquired from YouGov as a Stata dataset (RUTG0003\_OUTPUT.dta), with an accompanying Stata do-file that performs all statistical analyses (stata-analysis.do). They also include CSV files that record the callback estimates from prior criminal record hiring experiments (prior-audits.csv, prior-surveys.csv), in addition to the YouGov outcome data (yougov-callback.csv), with an accompanying R script that produces all visualizations (r-visualizations.R). The pre-publication version of the manuscript is included in a separate folder.
+The data folder includes the raw Excel data (vignette-data\_20220605.xlsx) as well as a created Stata dataset (vignette-data-analyze.dta) that preps the raw data for analysis. The programs folder includes two Stata do-files that prep the raw Excel data (do-1-prep.do) and performs all analyses reported in the article (do-2-analyze.do).
 
 Article citation:
 
